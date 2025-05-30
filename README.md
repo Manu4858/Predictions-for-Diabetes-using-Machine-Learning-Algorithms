@@ -96,12 +96,12 @@ Copy
 Edit
 python diabetes_decision_tree.py
 ## 📂 Folder Structure
-bash
-Copy
+```
 Edit
 ├── diabetes.csv                 # Dataset
 ├── diabetes_decision_tree.py    # Main Python script
 ├── README.md                    # Project README
+```
 ## ✍️ Author
 Your Name
 GitHub | LinkedIn
