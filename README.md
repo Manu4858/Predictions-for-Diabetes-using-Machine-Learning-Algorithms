@@ -102,9 +102,7 @@ Edit
 ├── diabetes_decision_tree.py    # Main Python script
 ├── README.md                    # Project README
 ```
-## ✍️ Author
-Your Name
-GitHub | LinkedIn
 
-## 📜 License
-This project is licensed under the MIT License.
+## Output
+
+
