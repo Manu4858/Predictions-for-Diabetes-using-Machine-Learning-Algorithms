@@ -1,3 +1,4 @@
+1.knn algorthim
 # Import necessary libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -130,7 +131,7 @@ plt.show()
 
 
 
-
+2.DecisionTree algorthim
 # Step 1: Import required libraries
 import pandas as pd
 import numpy as np
@@ -209,6 +210,8 @@ plt.title("Decision Tree for Diabetes Prediction")
 plt.show()
 
 
+
+3.SVM algorthim
 # Step 1: Import required libraries
 import pandas as pd
 import numpy as np
@@ -301,6 +304,7 @@ plt.show()
 
 
 
+4.RandomForset algorthim
 # Step 1: Import required libraries
 import pandas as pd
 import numpy as np
@@ -367,6 +371,7 @@ plt.show()
 
 
 
+5. LogisticRegression algorthim
 # Step 1: Import required libraries
 import pandas as pd
 import numpy as np
